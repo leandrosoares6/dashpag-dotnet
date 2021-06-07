@@ -1,0 +1,96 @@
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.deps.json
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.runtimeconfig.json
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.runtimeconfig.dev.json
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.dll
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.pdb
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.Views.dll
+C:\Users\victo\Desktop\sonmarket\bin\Debug\netcoreapp2.2\sonmarket.Views.pdb
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.RazorAssemblyInfo.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.RazorAssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.AssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.TagHelpers.input.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.TagHelpers.output.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.RazorCoreGenerate.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.RazorTargetAssemblyInfo.cache
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.RazorTargetAssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.Views.pdb
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.dll
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.pdb
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\sonmarket.csproj.CopyComplete
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Index.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Categorias.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovaCategoria.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Fornecedores.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoFornecedor.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoProduto.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Produtos.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarCategoria.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarFornecedor.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarProduto.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovaPromocao.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Promocoes.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarPromocao.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Estoque.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoEstoque.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.deps.json
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.runtimeconfig.json
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.runtimeconfig.dev.json
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.dll
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.pdb
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.Views.dll
+C:\Users\victo\Desktop\sonmarket - Copia\bin\Debug\netcoreapp2.2\sonmarket.Views.pdb
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.RazorAssemblyInfo.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.RazorAssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.AssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.TagHelpers.input.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.TagHelpers.output.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.RazorCoreGenerate.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Categorias.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarCategoria.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarFornecedor.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarProduto.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\EditarPromocao.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Estoque.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Fornecedores.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Index.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovaCategoria.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovaPromocao.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoEstoque.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoFornecedor.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\NovoProduto.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Produtos.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Gestao\Promocoes.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.RazorTargetAssemblyInfo.cache
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.RazorTargetAssemblyInfo.cs
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.Views.pdb
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.dll
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.pdb
+C:\Users\victo\Desktop\sonmarket - Copia\obj\Debug\netcoreapp2.2\sonmarket.csproj.CopyComplete

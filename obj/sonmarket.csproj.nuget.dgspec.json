@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leandro/dotnet-projects/dashpag/sonmarket.csproj": {}
+  },
+  "projects": {
+    "/home/leandro/dotnet-projects/dashpag/sonmarket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leandro/dotnet-projects/dashpag/sonmarket.csproj",
+        "projectName": "sonmarket",
+        "projectPath": "/home/leandro/dotnet-projects/dashpag/sonmarket.csproj",
+        "packagesPath": "/home/leandro/.nuget/packages/",
+        "outputPath": "/home/leandro/dotnet-projects/dashpag/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/leandro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
